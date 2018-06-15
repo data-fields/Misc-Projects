@@ -8,3 +8,4 @@ quote = random.choice( lines )
 
 #Prints the randomly chosen line
 print(quote)
+ 
